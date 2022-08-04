@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26.31" height="15.07" viewBox="0 0 26.31 15.07">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #004c97;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Newletter_Arrow" data-name="Newletter Arrow" class="cls-1" d="M1833.33,4889.76a0.607,0.607,0,0,0,0,1l4.92,4.86h-22.03a0.62,0.62,0,0,0-.7.7v0.59a0.616,0.616,0,0,0,.7.7h22.03l-4.92,4.87a0.6,0.6,0,0,0,0,.99l0.41,0.41a0.6,0.6,0,0,0,.99,0l6.8-6.79a0.552,0.552,0,0,0,0-.94l-6.8-6.8a0.6,0.6,0,0,0-.99,0Z" transform="translate(-1815.5 -4889.09)"/>
+</svg>
